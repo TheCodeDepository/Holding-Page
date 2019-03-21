@@ -1,1 +1,1 @@
-MJAW
+Simple webpage template.
